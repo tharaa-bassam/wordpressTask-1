@@ -1,0 +1,322 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-22 17:25+0545\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: patterns/404.php:10
+msgid " 4"
+msgstr ""
+
+#: patterns/404.php:10
+msgid "0"
+msgstr ""
+
+#: patterns/404.php:10
+msgid "4 "
+msgstr ""
+
+#: patterns/404.php:14
+msgid "Oops! That page can’t be found."
+msgstr ""
+
+#: patterns/cta.php:12
+msgid "Discover Our Solutions"
+msgstr ""
+
+#: patterns/cta.php:16
+msgid "Getting started is easy. Take the first step today."
+msgstr ""
+
+#: patterns/cta.php:21
+msgid "Schedule A Meeting"
+msgstr ""
+
+#: patterns/footer.php:14
+msgid "BoostUp Business"
+msgstr ""
+
+#: patterns/footer.php:19
+msgid ""
+"Lorem ipsum dolor sit amet consectetur adipiscing elit non natoque "
+"ullamcorper facilisis dui, erat mi pharetra gravida eu netus laoreet "
+"scelerisque nunc risus libero rutrum enim, condimentum consequat sems."
+msgstr ""
+
+#: patterns/footer.php:26
+msgid "Quick Links"
+msgstr ""
+
+#: patterns/footer.php:32
+msgid "About Us"
+msgstr ""
+
+#: patterns/footer.php:36 patterns/services.php:12
+msgid "Services"
+msgstr ""
+
+#: patterns/footer.php:40 patterns/header.php:31
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/footer.php:44
+msgid "FAQ"
+msgstr ""
+
+#: patterns/footer.php:48
+msgid "Our Vision"
+msgstr ""
+
+#: patterns/footer.php:56
+msgid "Quick Contact"
+msgstr ""
+
+#: patterns/footer.php:71
+msgid "+1 2059 458 96548 59"
+msgstr ""
+
+#: patterns/footer.php:85
+msgid "support@example.com"
+msgstr ""
+
+#: patterns/footer.php:99
+msgid "23 Miller Court, Conway"
+msgstr ""
+
+#: patterns/footer.php:113
+msgid "9 AM  - 6 PM"
+msgstr ""
+
+#: patterns/footer.php:122
+msgid "Gallery"
+msgstr ""
+
+#: patterns/footer.php:170
+msgid "Copyright © 2023 | Powered by "
+msgstr ""
+
+#: patterns/footer.php:170
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:170
+msgid "WordPress"
+msgstr ""
+
+#: patterns/header.php:19
+msgid "WordPress Business Theme"
+msgstr ""
+
+#: patterns/latest-posts.php:12
+msgid "Latest Posts"
+msgstr ""
+
+#: patterns/latest-posts.php:16
+msgid "Our Latest Blog"
+msgstr ""
+
+#: patterns/latest-posts.php:43
+msgid "View All"
+msgstr ""
+
+#: patterns/main-banner.php:13
+msgid "Solution That You Need!"
+msgstr ""
+
+#: patterns/main-banner.php:17
+msgid "Your New Professional Business Assistant!"
+msgstr ""
+
+#: patterns/main-banner.php:21
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting has been "
+"the industrys standard dummy text"
+msgstr ""
+
+#: patterns/main-banner.php:26
+msgid "Get Started"
+msgstr ""
+
+#: patterns/main-banner.php:30 patterns/why-choose-us.php:19
+msgid "Why Choose Us?"
+msgstr ""
+
+#: patterns/projects.php:11
+msgid "Showcase Your Work"
+msgstr ""
+
+#: patterns/projects.php:15
+msgid "Our Latest Work"
+msgstr ""
+
+#: patterns/projects.php:36
+msgid "Big Idea for Business"
+msgstr ""
+
+#: patterns/projects.php:54
+msgid "International Clientele"
+msgstr ""
+
+#: patterns/projects.php:70
+msgid "Business Promotion"
+msgstr ""
+
+#: patterns/projects.php:88
+msgid "Visual Interface"
+msgstr ""
+
+#: patterns/projects.php:104
+msgid "Business Collaboration"
+msgstr ""
+
+#: patterns/services.php:16
+msgid "Our Services"
+msgstr ""
+
+#: patterns/services.php:38
+msgid "Fully translatable"
+msgstr ""
+
+#: patterns/services.php:42 patterns/services.php:66 patterns/services.php:90
+#: patterns/services.php:114
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+msgstr ""
+
+#: patterns/services.php:46 patterns/services.php:70 patterns/services.php:94
+#: patterns/services.php:118
+msgid "Read More"
+msgstr ""
+
+#: patterns/services.php:62
+msgid "RETINA READY"
+msgstr ""
+
+#: patterns/services.php:86
+msgid "EASY CUSTOMIZE"
+msgstr ""
+
+#: patterns/services.php:110
+msgid "WEB SOLUTION"
+msgstr ""
+
+#: patterns/sidebar.php:19
+msgid "Recent Categories"
+msgstr ""
+
+#: patterns/sidebar.php:37
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/sidebar.php:55
+msgid "Post Archive"
+msgstr ""
+
+#: patterns/sidebar.php:75
+msgid "Catogery Tags"
+msgstr ""
+
+#: patterns/sidebar.php:93
+msgid "Connect With Us"
+msgstr ""
+
+#: patterns/team.php:12
+msgid "OUR TEAM"
+msgstr ""
+
+#: patterns/team.php:16
+msgid "Our Expert Advisor"
+msgstr ""
+
+#: patterns/team.php:36 patterns/testimonials.php:72
+msgid "Aston Dark"
+msgstr ""
+
+#: patterns/team.php:40
+msgid "Manager"
+msgstr ""
+
+#: patterns/team.php:64
+msgid "John Peter"
+msgstr ""
+
+#: patterns/team.php:68
+msgid "Sr. Developer"
+msgstr ""
+
+#: patterns/team.php:92
+msgid "Maria Gomez"
+msgstr ""
+
+#: patterns/team.php:96
+msgid "Finance Officer"
+msgstr ""
+
+#: patterns/team.php:120
+msgid "Mina Flower"
+msgstr ""
+
+#: patterns/team.php:124
+msgid "Graphic Designer"
+msgstr ""
+
+#: patterns/testimonials.php:12
+msgid "Feedback"
+msgstr ""
+
+#: patterns/testimonials.php:16
+msgid "Clients Testimonials"
+msgstr ""
+
+#: patterns/testimonials.php:34 patterns/testimonials.php:62
+msgid ""
+"Lorem ipsum dolor sit amet consectetur adipiscing elit quisque integer, "
+"pharetra tortor nisi scelerisque aliquam et euismod praesent, ultricies "
+"mattis dui."
+msgstr ""
+
+#: patterns/testimonials.php:44
+msgid "John Mina"
+msgstr ""
+
+#: patterns/testimonials.php:48
+msgid "Consultant"
+msgstr ""
+
+#: patterns/testimonials.php:76
+msgid "Developer"
+msgstr ""
+
+#: patterns/why-choose-us.php:23
+msgid "Innovative Business Ideas and Brainstorming"
+msgstr ""
+
+#: patterns/why-choose-us.php:27
+msgid ""
+"Lorem ipsum dolor sit amet consectetur adipiscing elit cras proin rhoncus "
+"habitant pharetra, potenti senectus nostra metus ac blandit integer iaculis "
+"scelerisque arcu malesuada. Tortor quis sagittis risus est egestas commodo"
+msgstr ""
+
+#: patterns/why-choose-us.php:31
+msgid ""
+"Lorem ipsum dolor sit amet consectetur adipiscing elit cras proin rhoncus "
+"habitant pharetra, potenti senectus nostra metus ac blandit integer iaculis "
+"scelerisque"
+msgstr ""
+
+#: patterns/why-choose-us.php:37
+msgid "Discover More"
+msgstr ""
